@@ -10,3 +10,5 @@ To install:
 
 The app is tested on an android device running Android Oreo.
 
+The android app is provided as an apk in the project folder.
+
